@@ -1,0 +1,11 @@
+numpy==1.19.0
+pandas==0.25.1
+Flask==2.1.0
+scikit_learn==0.23.1
+gunicorn==19.9.0
+xgboost==1.1.1
+imblearn==0.0
+matplotlib==3.5.3
+tqdm==4.65.0
+plotly==5.14.1
+shap==0.41.0
